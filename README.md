@@ -33,6 +33,7 @@ This analysis examines Airbnb’s operational performance from 2019 to 2022, wit
 
 ## 4. Data Cleaning & Preprocessing <a name="data-cleaning"></a>  
 <a href="#toc">[ back to contents ]</a>
+
 SQL was utilized for cleaning and processing, ensuring the data was complete, consistent, and analysis-ready.
 
 - **Seaching for duplicate and missing values**
