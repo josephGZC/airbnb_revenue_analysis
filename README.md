@@ -65,9 +65,9 @@ SQL was utilized for cleaning and processing, ensuring the data was complete, co
 
 ### 5.1. Revenue and Operations Overview <a name="overview"></a>  <a href="#toc">[↑]</a>
 
-- Over the past four years, the total revenue has amounted to $783.7M, with the current year generating $245M—3.3% lower than the previous year. In terms of average revenue, the past four-year average stands at $5.35K, while the current year's average has dropped to $5K, representing a 20.6% decline compared to the previous year.
+- <p align="justify"> Over the past four years, the total revenue has amounted to $783.7M, with the current year generating $245M—3.3% lower than the previous year. In terms of average revenue, the past four-year average stands at $5.35K, while the current year's average has dropped to $5K, representing a 20.6% decline compared to the previous year. </p>
 
-- Over the past four years, there have been a total of 146.5K bookings, with the current year accounting for 47K—a 22% increase from the previous year. Similarly, total listings over this period reached 7.4K, with the current year contributing 5K listings, marking an 18.2% increase from the previous year.
+- <p align="justify"> Over the past four years, there have been a total of 146.5K bookings, with the current year accounting for 47K—a 22% increase from the previous year. Similarly, total listings over this period reached 7.4K, with the current year contributing 5K listings, marking an 18.2% increase from the previous year. </p>
   
 - Despite increases in the number of bookings and listings, both total and average revenue are declining. This warrants further investigation.
 <div align="center">
