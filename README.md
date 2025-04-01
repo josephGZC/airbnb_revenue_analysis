@@ -60,12 +60,10 @@ SQL was utilized for cleaning and processing, ensuring the data was complete, co
 <div align="center">
   <img src="https://github.com/user-attachments/assets/86daa387-edc9-4d10-9d94-67973962f505" width="85%">
 </div> <br>
-
 - Over the past four years, there have been a total of 146.5K bookings, with the current year accounting for 47K—a 22% increase from the previous year. Similarly, total listings over this period reached 7.4K, with the current year contributing 5K listings, marking an 18.2% increase from the previous year.
 <div align="center">
   <img src="https://github.com/user-attachments/assets/7e53d3b0-70ec-4514-8a62-862335fe1b31" width="85%">
 </div> <br>
-
 - Despite increases in the number of bookings and listings, both total and average revenue are declining. This warrants further investigation.
 
 ### 5.2. Time Trends
