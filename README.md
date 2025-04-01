@@ -76,6 +76,13 @@ SQL was utilized for cleaning and processing, ensuring the data was complete, co
   <img src="https://github.com/user-attachments/assets/495202a0-d7ad-4427-95ad-cbaf1f40b0ff" width="70%">
 </div> 
 
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/0d5f1164-938d-4a3f-ac13-d83f6e41c001" width="100%"></td>
+    <td><img src="https://github.com/user-attachments/assets/495202a0-d7ad-4427-95ad-cbaf1f40b0ff" width="100%"></td>
+  </tr>
+</table>
+
 - Regarding Bookings and Listings, an upward curve is evident over the quarters, although a significant dip is observed around Q2 2020, which is likely attributable to the drastic reduction in visitor numbers caused by COVID-19.
 
 ### 5.3. City and Street Breakdown
