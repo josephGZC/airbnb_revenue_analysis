@@ -1,7 +1,7 @@
 # Airbnb Revenue Analysis
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/ae38f348-6374-41de-beb0-deae7fa472ca" width="90%">
+  <img src="https://github.com/user-attachments/assets/ae38f348-6374-41de-beb0-deae7fa472ca" width="100%">
 </div>
 
 ---
