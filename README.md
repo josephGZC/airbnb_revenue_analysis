@@ -44,56 +44,8 @@ SQL was utilized for cleaning and processing, ensuring the data was complete, co
   - Text identifiers such as 'AIR' were removed from the `unified_id` field 
   - The `month` column, originally in 'YYYY-MM' string format, was converted into a proper SQL DATE by appending '-01'
   
----
-
-### 3. Standardizing Identifiers
-
-- **Removed Prefixes**  
-  Removed text identifiers (e.g., `'AIR'`) from the `unified_id` field:
-  ```sql
-  REPLACE(unified_id, 'AIR', '')
-  ```
-
-- **Converted to Integer**  
-  Converted the cleaned `unified_id` values to integer:
-  ```sql
-  CAST(unified_id AS INT)
-  ```
-
----
-
-### 4. Date Standardization
-
-- Transformed `month` column (in `'YYYY-MM'` format) into proper SQL `DATE` values by appending `-01`:
-  ```sql
-  CAST(month + '-01' AS DATE) AS month_date
-  ```
-
----
-
-### 5. Data Type Conversions
-
-- **String to Numeric**  
-  Converted columns with numeric content stored as strings into appropriate types (e.g., `INT`, `FLOAT`):
-  ```sql
-  CAST(column_name AS INT)
-  CAST(column_name AS FLOAT)
-  ```
-
-- **Removing Commas for Decimal Conversion**  
-  Where numeric strings contained commas (e.g., `'1,000.00'`), they were first cleaned:
-  ```sql
-  REPLACE(column_name, ',', '.')
-  CAST(...) AS FLOAT
-  ```
-
-- **Columns Converted Include**:
-  - `revenue` → `revenue_float`
-  - `occupancy` → `occupancy_float`
-  - `nightly rate` → `nightly_rate_float`
-  - `lead time` → `lead_time_float`
-  - `length stay` → `length_stay_float`
-  - `bedrooms` → `bedrooms_int`
-  - `bathrooms` → `bathrooms_float`
+- **Data Type Conversions**
+  - Numeric content stored as strings was converted into appropriate types such as `INT` or `FLOAT` using `CAST(column_name AS INT)` or `CAST(column_name AS FLOAT)` to ensure accurate computation and analysis.
+  - For columns containing numeric strings with commas (e.g., `'1,000.00'`), the commas were removed using `REPLACE(column_name, ',', '.')` before casting the values to `FLOAT` for proper decimal interpretation.
 
 ---
