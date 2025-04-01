@@ -139,45 +139,6 @@ SQL was utilized for cleaning and processing, ensuring the data was complete, co
 - <p align="justify">The percent decrease in nightly rates from 2021 to 2022 was calculated by quarter and host type. Notably, significant drops exceeding 10% were observed in Q2 through Q4—approximately 13% in Q2, 16–17% in Q3, and 12–14% in Q4.</p>
 
 <div align="center" style="font-size:11px;">
-  <table>
-    <thead>
-      <tr>
-        <th>Quarter</th>
-        <th>Professionals</th>
-        <th>2–5 Units</th>
-        <th>Single Owners</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Q1</td>
-        <td>2.5%</td>
-        <td> - </td>
-        <td> - </td>
-      </tr>
-      <tr>
-        <td>Q2</td>
-        <td>13.5%</td>
-        <td>13.6%</td>
-        <td>13.6%</td>
-      </tr>
-      <tr>
-        <td>Q3</td>
-        <td>17.0%</td>
-        <td>16.6%</td>
-        <td>18.0%</td>
-      </tr>
-      <tr>
-        <td>Q4</td>
-        <td>14.5%</td>
-        <td>14.2%</td>
-        <td>12.1%</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
-<div align="center" style="font-size:11px;">
   <table style="text-align:center;">
     <thead>
       <tr>
