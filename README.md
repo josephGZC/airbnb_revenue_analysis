@@ -69,7 +69,7 @@ SQL was utilized for cleaning and processing, ensuring the data was complete, co
 
 - <p align="justify"> Over the past four years, there have been a total of 146.5K bookings, with the current year accounting for 47K—a 22% increase from the previous year. Similarly, total listings over this period reached 7.4K, with the current year contributing 5K listings, marking an 18.2% increase from the previous year. </p>
   
-- Despite increases in the number of bookings and listings, both total and average revenue are declining. This warrants further investigation.
+- <p align="justify"> Despite increases in the number of bookings and listings, both total and average revenue are declining. This warrants further investigation. </p>
 <div align="center">
   <img src="https://github.com/user-attachments/assets/86daa387-edc9-4d10-9d94-67973962f505" width="85%">
   <img src="https://github.com/user-attachments/assets/7e53d3b0-70ec-4514-8a62-862335fe1b31" width="85%">
@@ -77,9 +77,9 @@ SQL was utilized for cleaning and processing, ensuring the data was complete, co
 
 ### 5.2. Quarterly and Yearly Performance <a name="performance"></a>  <a href="#toc">[↑]</a>
 
-- For Revenue and Average Revenue, a noticeable dip occurs in the 2nd quarter, followed by a gradual increase from the 3rd quarter until the 1st quarter of the subsequent year.
+- <p align="justify"> For Revenue and Average Revenue, a noticeable dip occurs in the 2nd quarter, followed by a gradual increase from the 3rd quarter until the 1st quarter of the subsequent year.</p>
   
-- Regarding Bookings and Listings, an upward curve is evident over the quarters, although a significant dip is observed around Q2 2020, which is likely attributable to the drastic reduction in visitor numbers caused by COVID-19.
+- <p align="justify"> Regarding Bookings and Listings, an upward curve is evident over the quarters, although a significant dip is observed around Q2 2020, which is likely attributable to the drastic reduction in visitor numbers caused by COVID-19.</p>
 <table cellspacing="0" cellpadding="0">
   <tr>
     <td style="border: 1px solid white; padding: 0px 5px 2px 0px;">
@@ -101,11 +101,11 @@ SQL was utilized for cleaning and processing, ensuring the data was complete, co
 
 ### 5.3. Geographic Revenue Distribution <a name="distribution"></a>  <a href="#toc">[↑]</a>
 
-- Big Bear Lake City is the dominant revenue driver, accounting for 58.5% of total revenue, and the top 5 revenue streets are all located within this city.
+- <p align="justify">Big Bear Lake City is the dominant revenue driver, accounting for 58.5% of total revenue, and the top 5 revenue streets are all located within this city.</p>
 
-- In terms of average revenue, the distribution among cities is more balanced, ranging between 19% and 28%, with Cholla Avenue in Yuca Valley emerging as the leader in average revenue.
+- <p align="justify">In terms of average revenue, the distribution among cities is more balanced, ranging between 19% and 28%, with Cholla Avenue in Yuca Valley emerging as the leader in average revenue.</p>
 
-- While Big Bear Lake City drives overall revenue, the analysis of average revenue reveals performance differences across streets and cities, suggesting that specific high-performing streets, such as those in Yuca Valley, may be key targets for further investigation.
+- <p align="justify">While Big Bear Lake City drives overall revenue, the analysis of average revenue reveals performance differences across streets and cities, suggesting that specific high-performing streets, such as those in Yuca Valley, may be key targets for further investigation.</p>
 <div align="center">
   <img src="https://github.com/user-attachments/assets/b6f6071b-cfa4-4fe2-a548-d07f7c810a97" width="50%">
   <img src="https://github.com/user-attachments/assets/656883ae-2744-4180-8d82-f823f2487651" width="50%">
@@ -113,9 +113,9 @@ SQL was utilized for cleaning and processing, ensuring the data was complete, co
 
 ### 5.4.  Host Segmentation and Pricing Dynamics <a name="dynamics"></a>  <a href="#toc">[↑]</a>
 
-- Professional hosts lead with 62% of listings, followed by single owners who contribute 21.2%, while hosts with 2-5 units account for 16%.
+- <p align="justify">Professional hosts lead with 62% of listings, followed by single owners who contribute 21.2%, while hosts with 2-5 units account for 16%.</p>
 
-- From 2019 to 2021, there was an overall increase in quarterly nightly rates across all host types. However, a decrease in nightly rates is observed in 2022 across all quarters.
+- <p align="justify">From 2019 to 2021, there was an overall increase in quarterly nightly rates across all host types. However, a decrease in nightly rates is observed in 2022 across all quarters.</p>
 <table cellspacing="0" cellpadding="0">
   <tr>
     <td style="border: 1px solid white; padding: 0px 5px 2px 0px;">
@@ -180,6 +180,6 @@ SQL was utilized for cleaning and processing, ensuring the data was complete, co
 ## 6. Recommendations <a name="recommendations"></a>
 <a href="#toc">[ back to contents ]</a>
 
-- **Optimize Nightly Rates Based on Seasonal Trends**. Address the revenue decline by implementing targeted rate increases of approximately 14–17% in Q2–Q4, especially for professional hosts. This pricing adjustment aligns with historical drops and can help recover lost revenue without discouraging bookings, given the concurrent rise in transactions and listings.
+- <p align="justify">**Optimize Nightly Rates Based on Seasonal Trends**. Address the revenue decline by implementing targeted rate increases of approximately 14–17% in Q2–Q4, especially for professional hosts. This pricing adjustment aligns with historical drops and can help recover lost revenue without discouraging bookings, given the concurrent rise in transactions and listings.</p>
 
-- **Leverage High-Performing Locations to Guide Growth**. Use insights from Big Bear Lake City and Cholla Avenue in Yuca Valley—the top contributors to total and average revenue—as benchmarks. Identify common features and strategies in these areas and replicate them in underperforming cities and streets to boost overall platform revenue.
+- <p align="justify">**Leverage High-Performing Locations to Guide Growth**. Use insights from Big Bear Lake City and Cholla Avenue in Yuca Valley—the top contributors to total and average revenue—as benchmarks. Identify common features and strategies in these areas and replicate them in underperforming cities and streets to boost overall platform revenue.</p>
