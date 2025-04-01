@@ -126,7 +126,7 @@ SQL was utilized for cleaning and processing, ensuring the data was complete, co
 </table>
 
 
-- Based on the specific percent decrease values, nightly rates could be strategically raised by approximately 14% or more in Q2, 17% or more in Q3, and 14% or more in Q4 to recover lost revenue.
+- The percent decrease in nightly rates from 2021 to 2022 was calculated by quarter and host type. Notably, significant drops exceeding 10% were observed in Q2 through Q4—approximately 13% in Q2, 16–17% in Q3, and 12–14% in Q4.
 
 <div align="center" style="font-size:11px;">
   <table>
@@ -167,6 +167,7 @@ SQL was utilized for cleaning and processing, ensuring the data was complete, co
   </table>
 </div>
 
+Based on the specific percent decrease values, nightly rates could be strategically raised by approximately 14% or more in Q2, 17% or more in Q3, and 14% or more in Q4 to recover lost revenue
 
 ## 6. Recommendations
 - **Optimize Nightly Rates Based on Seasonal Trends**. Address the revenue decline by implementing targeted rate increases of approximately 14–17% in Q2–Q4, especially for professional hosts. This pricing adjustment aligns with historical drops and can help recover lost revenue without discouraging bookings, given the concurrent rise in transactions and listings.
