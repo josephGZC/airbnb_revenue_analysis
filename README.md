@@ -70,17 +70,6 @@ SQL was utilized for cleaning and processing, ensuring the data was complete, co
 
 - For Revenue and Average Revenue, a noticeable dip occurs in the 2nd quarter, followed by a gradual increase from the 3rd quarter until the 1st quarter of the subsequent year.
 - Regarding Bookings and Listings, an upward curve is evident over the quarters, although a significant dip is observed around Q2 2020, which is likely attributable to the drastic reduction in visitor numbers caused by COVID-19.
-<table cellspacing="2px" cellpadding="5px">
-  <tr>
-    <td style="border: 1px solid white; padding: 5px;"><img src="https://github.com/user-attachments/assets/0d5f1164-938d-4a3f-ac13-d83f6e41c001" width="100%"></td>
-    <td style="border: 1px solid white; padding: 5px;"><img src="https://github.com/user-attachments/assets/495202a0-d7ad-4427-95ad-cbaf1f40b0ff" width="100%"></td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid white; padding: 5px;"><img src="https://github.com/user-attachments/assets/5d538035-fd0a-45c8-9e88-0340f9af16fb" width="100%"></td>
-    <td style="border: 1px solid white; padding: 5px;"><img src="https://github.com/user-attachments/assets/09e3d93d-393a-4241-a635-77166a433460" width="100%"></td>
-  </tr>
-</table>
-
 <table cellspacing="0" cellpadding="0">
   <tr>
     <td style="border: 1px solid white; padding: 5px 5px 2px 5px;">
@@ -100,8 +89,6 @@ SQL was utilized for cleaning and processing, ensuring the data was complete, co
   </tr>
 </table>
 
-
-
 ### 5.3. City and Street Breakdown
 
 - Big Bear Lake City is the dominant revenue driver, accounting for 58.5% of total revenue, and the top 5 revenue streets are all located within this city.
@@ -109,6 +96,12 @@ SQL was utilized for cleaning and processing, ensuring the data was complete, co
 - In terms of average revenue, the distribution among cities is more balanced, ranging between 19% and 28%, with Cholla Avenue in Yuca Valley emerging as the leader in average revenue.
 
 - While Big Bear Lake City drives overall revenue, the analysis of average revenue reveals performance differences across streets and cities, suggesting that specific high-performing streets, such as those in Yuca Valley, may be key targets for further investigation.
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/b6f6071b-cfa4-4fe2-a548-d07f7c810a97" width="85%">
+  <img src="https://github.com/user-attachments/assets/656883ae-2744-4180-8d82-f823f2487651" width="85%">
+</div> 
+
 
 ### 5.4. Host Type and Nightly Rates
 
