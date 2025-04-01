@@ -44,7 +44,7 @@ SQL was utilized for cleaning and processing, ensuring the data was complete, co
   - Text identifiers such as 'AIR' were removed from the `unified_id` field 
   - The `month` column, originally in 'YYYY-MM' string format, was converted into a proper SQL DATE by appending '-01'
   
-- **Data Type Conversions**
+- **Data Type Conversion**
   - Numeric content stored as strings was converted into appropriate types such as `INT` or `FLOAT` using `CAST(column_name AS INT)` or `CAST(column_name AS FLOAT)` to ensure accurate computation and analysis.
   - For columns containing numeric strings with commas (e.g., `'1,000.00'`), the commas were removed using `REPLACE(column_name, ',', '.')` before casting the values to `FLOAT` for proper decimal interpretation.
 
