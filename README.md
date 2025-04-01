@@ -136,7 +136,7 @@ SQL was utilized for cleaning and processing, ensuring the data was complete, co
 </table>
 
 
-- The percent decrease in nightly rates from 2021 to 2022 was calculated by quarter and host type. Notably, significant drops exceeding 10% were observed in Q2 through Q4—approximately 13% in Q2, 16–17% in Q3, and 12–14% in Q4.
+- <p align="justify">The percent decrease in nightly rates from 2021 to 2022 was calculated by quarter and host type. Notably, significant drops exceeding 10% were observed in Q2 through Q4—approximately 13% in Q2, 16–17% in Q3, and 12–14% in Q4.</p>
 
 <div align="center" style="font-size:11px;">
   <table>
