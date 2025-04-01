@@ -41,8 +41,8 @@ SQL was utilized for cleaning and processing, ensuring the data was complete, co
   - Missing values were identified by comparing the total row count to the count of non-null entries using `COUNT(*) - COUNT(column_name)`. Additionally, empty string values were detected using `LTRIM(RTRIM(column_name)) = ''` to flag fields that appeared filled but contained no meaningful data. No essential columns had missing values that required further cleaning or corrective action.
 
 - **Data Standardization**
-- Text identifiers such as 'AIR' were removed from the `unified_id` field 
-- The `month` column, originally in 'YYYY-MM' string format, was converted into a proper SQL DATE by appending '-01'
+  - Text identifiers such as 'AIR' were removed from the `unified_id` field 
+  - The `month` column, originally in 'YYYY-MM' string format, was converted into a proper SQL DATE by appending '-01'
   
 ---
 
