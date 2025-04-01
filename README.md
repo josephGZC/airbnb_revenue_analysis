@@ -34,7 +34,7 @@ This analysis examines Airbnb’s operational performance from 2019 to 2022, wit
 <a href="#toc">[ back to contents ]</a>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/c556a3ae-fca9-476a-b608-6bb7d960124d" width="100%">
+  <img src="https://github.com/user-attachments/assets/c556a3ae-fca9-476a-b608-6bb7d960124d" width="75%">
 </div>
 
 
