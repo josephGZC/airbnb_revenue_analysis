@@ -108,18 +108,18 @@ SQL was utilized for cleaning and processing, ensuring the data was complete, co
 - From 2019 to 2021, there was an overall increase in quarterly nightly rates across all host types; however, a decrease in nightly rates is observed in 2022 across all quarters.
 <table cellspacing="0" cellpadding="0">
   <tr>
-    <td style="border: 1px solid white; padding: 5px 5px 2px 5px;">
+    <td style="border: 1px solid white; padding: 0px 5px 2px 0px;">
       <img src="https://github.com/user-attachments/assets/994b8ab8-a158-4708-af90-178da837eaf4" width="100%">
     </td>
-    <td style="border: 1px solid white; padding: 5px 5px 2px 5px;">
+    <td style="border: 1px solid white; padding: 0px 0px 2px 5px;">
       <img src="https://github.com/user-attachments/assets/5702b118-9128-4e5a-bde6-2262724a348c" width="100%">
     </td>
   </tr>
   <tr>
-    <td style="border: 1px solid white; padding: 2px 5px 5px 5px;">
+    <td style="border: 1px solid white; padding: 2px 5px 0px 0px;">
       <img src="https://github.com/user-attachments/assets/a56ea783-01ee-470b-8efc-26fe55696db7" width="100%">
     </td>
-    <td style="border: 1px solid white; padding: 2px 5px 5px 5px;">
+    <td style="border: 1px solid white; padding: 2px 0px 0px 5px;">
       <img src="https://github.com/user-attachments/assets/1c35ee56-55a4-4410-a6b8-5b50e88f7e55" width="100%">
     </td>
   </tr>
