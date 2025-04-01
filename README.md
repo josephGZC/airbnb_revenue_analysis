@@ -8,8 +8,7 @@
 [2. Executive Summary](#executive-summary) <br>
 [3. Dataset Overivew](#dataset-overview) <br>
 [4. Data Cleaning and Preprocessing](#data-cleaning) <br>
-[5. Sentiment Analysis Approach](#sentiment-analysis) <br>
-[6. Insights Deep-Dive](#insights-deep-dive) <br>
+[5. Insights Deep-Dive](#insights-deep-dive) <br>
 
 ---
 
@@ -48,4 +47,46 @@ SQL was utilized for cleaning and processing, ensuring the data was complete, co
   - Numeric content stored as strings was converted into appropriate types such as `INT` or `FLOAT` using `CAST(column_name AS INT)` or `CAST(column_name AS FLOAT)` to ensure accurate computation and analysis.
   - For columns containing numeric strings with commas (e.g., `'1,000.00'`), the commas were removed using `REPLACE(column_name, ',', '.')` before casting the values to `FLOAT` for proper decimal interpretation.
 
----
+## 6. Insights Deep-Dive <a name="insights-deep-dive"></a>
+<a href="#toc">[ back to contents ]</a>
+
+## Revenue and Operations Overview
+
+- Over the past four years, the total revenue has amounted to $783.7M, with the current year generating $245M—3.3% lower than the previous year. In terms of average revenue, the past four-year average stands at $5.35K, while the current year's average has dropped to $5K, representing a 20.6% decline compared to the previous year.
+
+- Over the past four years, there have been a total of 146.5K bookings, with the current year accounting for 47K—a 22% increase from the previous year. Similarly, total listings over this period reached 7.4K, with the current year contributing 5K listings, marking an 18.2% increase from the previous year.
+
+- Despite increases in the number of bookings and listings, both total and average revenue are declining. This warrants further investigation.
+
+## Time Trends
+
+- For Revenue and Average Revenue, a noticeable dip occurs in the 2nd quarter, followed by a gradual increase from the 3rd quarter until the 1st quarter of the subsequent year.
+
+- Regarding Bookings and Listings, an upward curve is evident over the quarters, although a significant dip is observed around Q2 2020, which is likely attributable to the drastic reduction in visitor numbers caused by COVID-19.
+
+## City and Street Breakdown
+
+- Big Bear Lake City is the dominant revenue driver, accounting for 58.5% of total revenue, and the top 5 revenue streets are all located within this city.
+
+- In terms of average revenue, the distribution among cities is more balanced, ranging between 19% and 28%, with Cholla Avenue in Yuca Valley emerging as the leader in average revenue.
+
+- While Big Bear Lake City drives overall revenue, the analysis of average revenue reveals performance differences across streets and cities, suggesting that specific high-performing streets, such as those in Yuca Valley, may be key targets for further investigation.
+
+## Host Type and Nightly Rates
+
+- Professional hosts lead with 62% of listings, followed by single owners who contribute 21.2%, while hosts with 2-5 units account for 16%.
+
+- From 2019 to 2021, there was an overall increase in quarterly nightly rates across all host types; however, a decrease in nightly rates is observed in 2022 across all quarters.
+
+- Based on the specific percent decrease values, nightly rates could be strategically raised by approximately 14% or more in Q2, 17% or more in Q3, and 14% or more in Q4 to recover lost revenue.
+
+| Quarter | Professionals | 2–5 Units | Single Owners |
+|---------|---------------|-----------|----------------|
+| Q1      | 2.526         |           |                |
+| Q2      | 13.499        | 13.622    | 13.609         |
+| Q3      | 16.992        | 16.575    | 17.957         |
+| Q4      | 14.471        | 14.223    | 12.085         |
+
+
+
+
