@@ -110,7 +110,7 @@ SQL was utilized for cleaning and processing, ensuring the data was complete, co
 
 - Professional hosts lead with 62% of listings, followed by single owners who contribute 21.2%, while hosts with 2-5 units account for 16%.
 
-- From 2019 to 2021, there was an overall increase in quarterly nightly rates across all host types; however, a decrease in nightly rates is observed in 2022 across all quarters.
+- From 2019 to 2021, there was an overall increase in quarterly nightly rates across all host types. However, a decrease in nightly rates is observed in 2022 across all quarters.
 <table cellspacing="0" cellpadding="0">
   <tr>
     <td style="border: 1px solid white; padding: 0px 5px 2px 0px;">
