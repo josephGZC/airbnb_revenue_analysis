@@ -180,6 +180,6 @@ SQL was utilized for cleaning and processing, ensuring the data was complete, co
 ## 6. Recommendations <a name="recommendations"></a>
 <a href="#toc">[ back to contents ]</a>
 
-- <p align="justify"> **Optimize Nightly Rates Based on Seasonal Trends**. Address the revenue decline by implementing targeted rate increases of approximately 14–17% in Q2–Q4, especially for professional hosts. This pricing adjustment aligns with historical drops and can help recover lost revenue without discouraging bookings, given the concurrent rise in transactions and listings.</p>
+- <p align="justify"> <strong>Optimize Nightly Rates Based on Seasonal Trends</strong>. Address the revenue decline by implementing targeted rate increases of approximately 14–17% in Q2–Q4, especially for professional hosts. This pricing adjustment aligns with historical drops and can help recover lost revenue without discouraging bookings, given the concurrent rise in transactions and listings.</p>
 
-- <p align="justify"> **Leverage High-Performing Locations to Guide Growth**. Use insights from Big Bear Lake City and Cholla Avenue in Yuca Valley—the top contributors to total and average revenue—as benchmarks. Identify common features and strategies in these areas and replicate them in underperforming cities and streets to boost overall platform revenue.</p>
+- <p align="justify"> <strong>Leverage High-Performing Locations to Guide Growth</strong>. Use insights from Big Bear Lake City and Cholla Avenue in Yuca Valley—the top contributors to total and average revenue—as benchmarks. Identify common features and strategies in these areas and replicate them in underperforming cities and streets to boost overall platform revenue.</p>
