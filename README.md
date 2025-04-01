@@ -6,7 +6,7 @@
 
 
 > link to the dashboard →  <a href="https://app.powerbi.com/view?r=eyJrIjoiNjZmMzJiYzItMmIyYS00ZWNjLTliNDUtYzQ0ZDdmZTg0ZTlhIiwidCI6ImJkMDNhNzM1LTJhYTMtNGNjYS05NzIyLTJhZTQ5MjlhYjNlYyIsImMiOjEwfQ%3D%3D" target="_blank">Power BI Report</a> <br>
-> link to the SQL code →  <a href="https://github.com/josephGZC/airbnb_revenue_analysis/blob/015a0bcac33a18d751b00b4cf578643d3f68a9ad/data_cleaning_and_exploration.sql" target="_blank">Data Cleaning and Exploratory Analysis</a>
+> link to the code →  <a href="https://github.com/josephGZC/airbnb_revenue_analysis/blob/015a0bcac33a18d751b00b4cf578643d3f68a9ad/data_cleaning_and_exploration.sql" target="_blank"> SQL Data Cleaning and Exploratory Analysis</a>
 
 ---
 
