@@ -177,6 +177,46 @@ SQL was utilized for cleaning and processing, ensuring the data was complete, co
   </table>
 </div>
 
+<div align="center" style="font-size:11px;">
+  <table style="text-align:center;">
+    <thead>
+      <tr>
+        <th style="text-align:center;">Quarter</th>
+        <th style="text-align:center;">Professionals</th>
+        <th style="text-align:center;">2–5 Units</th>
+        <th style="text-align:center;">Single Owners</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="text-align:center;">Q1</td>
+        <td style="text-align:center;">2.5%</td>
+        <td style="text-align:center;">-</td>
+        <td style="text-align:center;">-</td>
+      </tr>
+      <tr>
+        <td style="text-align:center;">Q2</td>
+        <td style="text-align:center;">13.5%</td>
+        <td style="text-align:center;">13.6%</td>
+        <td style="text-align:center;">13.6%</td>
+      </tr>
+      <tr>
+        <td style="text-align:center;">Q3</td>
+        <td style="text-align:center;">17.0%</td>
+        <td style="text-align:center;">16.6%</td>
+        <td style="text-align:center;">18.0%</td>
+      </tr>
+      <tr>
+        <td style="text-align:center;">Q4</td>
+        <td style="text-align:center;">14.5%</td>
+        <td style="text-align:center;">14.2%</td>
+        <td style="text-align:center;">12.1%</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+
 ## 6. Recommendations <a name="recommendations"></a>
 <a href="#toc">[ back to contents ]</a>
 
