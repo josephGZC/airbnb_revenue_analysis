@@ -13,6 +13,10 @@
 [3. Dataset Overivew](#dataset-overview) <br>
 [4. Data Cleaning and Preprocessing](#data-cleaning) <br>
 [5. Insights Deep-Dive](#insights-deep-dive) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;[5.1. Revenue and Operations Overview](#overview) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;[5.2. Quarterly and Yearly Performance](#performance) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;[5.3. Geographic Revenue Distribution](#distribution) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;[5.4. Host Segmentation and Pricing Dynamics](#dynamics) <br>
 [6. Recommendations](#recommendations) <br>
 
 ---
@@ -59,7 +63,7 @@ SQL was utilized for cleaning and processing, ensuring the data was complete, co
 ## 5. Insights Deep-Dive <a name="insights-deep-dive"></a>
 <a href="#toc">[ back to contents ]</a>
 
-### 5.1. Revenue and Operations Overview
+### 5.1. Revenue and Operations Overview <a name="overview"></a>  <a href="#toc">[↑]</a>
 
 - Over the past four years, the total revenue has amounted to $783.7M, with the current year generating $245M—3.3% lower than the previous year. In terms of average revenue, the past four-year average stands at $5.35K, while the current year's average has dropped to $5K, representing a 20.6% decline compared to the previous year.
 
@@ -71,7 +75,7 @@ SQL was utilized for cleaning and processing, ensuring the data was complete, co
   <img src="https://github.com/user-attachments/assets/7e53d3b0-70ec-4514-8a62-862335fe1b31" width="85%">
 </div> <br>
 
-### 5.2. Quarterly and Yearly Performance
+### 5.2. Quarterly and Yearly Performance <a name="performance"></a>  <a href="#toc">[↑]</a>
 
 - For Revenue and Average Revenue, a noticeable dip occurs in the 2nd quarter, followed by a gradual increase from the 3rd quarter until the 1st quarter of the subsequent year.
   
@@ -95,7 +99,7 @@ SQL was utilized for cleaning and processing, ensuring the data was complete, co
   </tr>
 </table>
 
-### 5.3. Geographic Revenue Distribution
+### 5.3. Geographic Revenue Distribution <a name="distribution"></a>  <a href="#toc">[↑]</a>
 
 - Big Bear Lake City is the dominant revenue driver, accounting for 58.5% of total revenue, and the top 5 revenue streets are all located within this city.
 
@@ -107,7 +111,7 @@ SQL was utilized for cleaning and processing, ensuring the data was complete, co
   <img src="https://github.com/user-attachments/assets/656883ae-2744-4180-8d82-f823f2487651" width="50%">
 </div> <br>
 
-### 5.4.  Host Segmentation and Pricing Dynamics
+### 5.4.  Host Segmentation and Pricing Dynamics <a name="dynamics"></a>  <a href="#toc">[↑]</a>
 
 - Professional hosts lead with 62% of listings, followed by single owners who contribute 21.2%, while hosts with 2-5 units account for 16%.
 
