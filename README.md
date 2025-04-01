@@ -6,7 +6,7 @@
 
 <br>
 
-> link to the report →  <a href="https://app.powerbi.com/view?r=eyJrIjoiNjZmMzJiYzItMmIyYS00ZWNjLTliNDUtYzQ0ZDdmZTg0ZTlhIiwidCI6ImJkMDNhNzM1LTJhYTMtNGNjYS05NzIyLTJhZTQ5MjlhYjNlYyIsImMiOjEwfQ%3D%3D" target="_blank">Power BI Dashboard</a>
+> link to the dashboard →  <a href="https://app.powerbi.com/view?r=eyJrIjoiNjZmMzJiYzItMmIyYS00ZWNjLTliNDUtYzQ0ZDdmZTg0ZTlhIiwidCI6ImJkMDNhNzM1LTJhYTMtNGNjYS05NzIyLTJhZTQ5MjlhYjNlYyIsImMiOjEwfQ%3D%3D" target="_blank">Power BI Report</a>
 
 ---
 
