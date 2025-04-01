@@ -167,13 +167,8 @@ SQL was utilized for cleaning and processing, ensuring the data was complete, co
   </table>
 </div>
 
-Based on the specific percent decrease values, nightly rates could be strategically raised by approximately 14% or more in Q2, 17% or more in Q3, and 14% or more in Q4 to recover lost revenue
 
 ## 6. Recommendations
 - **Optimize Nightly Rates Based on Seasonal Trends**. Address the revenue decline by implementing targeted rate increases of approximately 14–17% in Q2–Q4, especially for professional hosts. This pricing adjustment aligns with historical drops and can help recover lost revenue without discouraging bookings, given the concurrent rise in transactions and listings.
 
 - **Leverage High-Performing Locations to Guide Growth**. Use insights from Big Bear Lake City and Cholla Avenue in Yuca Valley—the top contributors to total and average revenue—as benchmarks. Identify common features and strategies in these areas and replicate them in underperforming cities and streets to boost overall platform revenue.
-
-
-
-
