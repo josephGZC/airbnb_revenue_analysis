@@ -33,33 +33,11 @@ This analysis examines Airbnb’s operational performance from 2019 to 2022, wit
 
 ## 4. Data Cleaning & Preprocessing <a name="data-cleaning"></a>  
 <a href="#toc">[ back to contents ]</a>
+SQL was utilized for cleaning and processing, ensuring the data was complete, consistent, and analysis-ready.
 
-
-SQL was utilized to clean the 
-
-### 1. Handling Missing Values
-
-Missing values were identified by comparing the total row count to the count of non-null entries using `COUNT(*) - COUNT(column_name)`. Additionally, empty string values were detected using `LTRIM(RTRIM(column_name)) = ''` to flag fields that appeared filled but contained no meaningful data.
-
----
-
-### 2. Detecting Duplicates
-
-- Duplicate detection was done by grouping over key identifying columns and checking for multiple occurrences:
-  ```sql
-  GROUP BY column_1, column_2, ...
-  HAVING COUNT(*) > 1
-  ```
-- Example for `amenities`:
-  ```sql
-  GROUP BY unified_id, month, hot_tub, pool
-  HAVING COUNT(*) > 1
-  ```
-
-- In some cases, duplicates were confirmed using:
-  ```sql
-  IF EXISTS (...) BEGIN SELECT ... END ELSE SELECT 'No Duplicates'
-  ```
+- **Seaching for duplicate and missing values**
+  - To identify duplicates, the query groups rows based on key fields and uses `HAVING COUNT(*) > 1` to detect repeated combinations—none were found in this case. 
+  - Missing values were identified by comparing the total row count to the count of non-null entries using `COUNT(*) - COUNT(column_name)`. Additionally, empty string values were detected using `LTRIM(RTRIM(column_name)) = ''` to flag fields that appeared filled but contained no meaningful data. No essential columns had missing values that required further cleaning or corrective action.
 
 ---
 
