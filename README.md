@@ -100,8 +100,7 @@ SQL was utilized for cleaning and processing, ensuring the data was complete, co
 <div align="center">
   <img src="https://github.com/user-attachments/assets/b6f6071b-cfa4-4fe2-a548-d07f7c810a97" width="60%">
   <img src="https://github.com/user-attachments/assets/656883ae-2744-4180-8d82-f823f2487651" width="60%">
-</div> 
-
+</div> <br>
 
 ### 5.4. Host Type and Nightly Rates
 
