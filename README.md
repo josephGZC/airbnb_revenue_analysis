@@ -4,6 +4,8 @@
   <img src="https://github.com/user-attachments/assets/ae38f348-6374-41de-beb0-deae7fa472ca" width="100%">
 </div>
 
+<iframe title="airbnb_revenue_analysis" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNjZmMzJiYzItMmIyYS00ZWNjLTliNDUtYzQ0ZDdmZTg0ZTlhIiwidCI6ImJkMDNhNzM1LTJhYTMtNGNjYS05NzIyLTJhZTQ5MjlhYjNlYyIsImMiOjEwfQ%3D%3D" frameborder="0" allowFullScreen="true"></iframe>
+
 ---
 
 ### Table of Contents <a name="toc"></a>
