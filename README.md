@@ -94,7 +94,7 @@ SQL was utilized for cleaning and processing, ensuring the data was complete, co
   </tr>
 </table>
 
-### 5.3. City and Street Breakdown
+### 5.3. Geographic Revenue Distribution
 
 - Big Bear Lake City is the dominant revenue driver, accounting for 58.5% of total revenue, and the top 5 revenue streets are all located within this city.
 
@@ -106,7 +106,7 @@ SQL was utilized for cleaning and processing, ensuring the data was complete, co
   <img src="https://github.com/user-attachments/assets/656883ae-2744-4180-8d82-f823f2487651" width="50%">
 </div> <br>
 
-### 5.4. Host Type and Nightly Rates
+### 5.4.  Host Segmentation and Pricing Dynamics
 
 - Professional hosts lead with 62% of listings, followed by single owners who contribute 21.2%, while hosts with 2-5 units account for 16%.
 
