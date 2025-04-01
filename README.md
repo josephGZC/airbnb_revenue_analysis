@@ -61,7 +61,6 @@ SQL was utilized for cleaning and processing, ensuring the data was complete, co
 - Over the past four years, there have been a total of 146.5K bookings, with the current year accounting for 47K—a 22% increase from the previous year. Similarly, total listings over this period reached 7.4K, with the current year contributing 5K listings, marking an 18.2% increase from the previous year.
   
 - Despite increases in the number of bookings and listings, both total and average revenue are declining. This warrants further investigation.
-
 <div align="center">
   <img src="https://github.com/user-attachments/assets/86daa387-edc9-4d10-9d94-67973962f505" width="85%">
   <img src="https://github.com/user-attachments/assets/7e53d3b0-70ec-4514-8a62-862335fe1b31" width="85%">
@@ -71,15 +70,14 @@ SQL was utilized for cleaning and processing, ensuring the data was complete, co
 
 - For Revenue and Average Revenue, a noticeable dip occurs in the 2nd quarter, followed by a gradual increase from the 3rd quarter until the 1st quarter of the subsequent year.
 - Regarding Bookings and Listings, an upward curve is evident over the quarters, although a significant dip is observed around Q2 2020, which is likely attributable to the drastic reduction in visitor numbers caused by COVID-19.
-  
 <table>
   <tr>
-    <td style="border: 1px solid white;"><img src="https://github.com/user-attachments/assets/0d5f1164-938d-4a3f-ac13-d83f6e41c001" width="100%"></td>
-    <td style="border: 1px solid white;"><img src="https://github.com/user-attachments/assets/495202a0-d7ad-4427-95ad-cbaf1f40b0ff" width="100%"></td>
+    <td style="border: -1px solid white;"><img src="https://github.com/user-attachments/assets/0d5f1164-938d-4a3f-ac13-d83f6e41c001" width="100%"></td>
+    <td style="border: -1px solid white;"><img src="https://github.com/user-attachments/assets/495202a0-d7ad-4427-95ad-cbaf1f40b0ff" width="100%"></td>
   </tr>
   <tr>
-    <td style="border: 1px solid white;"><img src="https://github.com/user-attachments/assets/5d538035-fd0a-45c8-9e88-0340f9af16fb" width="100%"></td>
-    <td style="border: 1px solid white;"><img src="https://github.com/user-attachments/assets/09e3d93d-393a-4241-a635-77166a433460" width="100%"></td>
+    <td style="border: -1px solid white;"><img src="https://github.com/user-attachments/assets/5d538035-fd0a-45c8-9e88-0340f9af16fb" width="100%"></td>
+    <td style="border: -1px solid white;"><img src="https://github.com/user-attachments/assets/09e3d93d-393a-4241-a635-77166a433460" width="100%"></td>
   </tr>
 </table>
 
