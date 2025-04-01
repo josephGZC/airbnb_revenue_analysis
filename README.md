@@ -72,7 +72,7 @@ SQL was utilized for cleaning and processing, ensuring the data was complete, co
 - Regarding Bookings and Listings, an upward curve is evident over the quarters, although a significant dip is observed around Q2 2020, which is likely attributable to the drastic reduction in visitor numbers caused by COVID-19.
 <table cellspacing="2px" cellpadding="5px">
   <tr>
-    <td style="border: 1px solid white; padding: 0;"><img src="https://github.com/user-attachments/assets/0d5f1164-938d-4a3f-ac13-d83f6e41c001" width="100%"></td>
+    <td style="border: 1px solid white; padding: 10px;"><img src="https://github.com/user-attachments/assets/0d5f1164-938d-4a3f-ac13-d83f6e41c001" width="100%"></td>
     <td style="border: 1px solid white; padding: 0;"><img src="https://github.com/user-attachments/assets/495202a0-d7ad-4427-95ad-cbaf1f40b0ff" width="100%"></td>
   </tr>
   <tr>
