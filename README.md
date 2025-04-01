@@ -33,6 +33,10 @@ This analysis examines Airbnb’s operational performance from 2019 to 2022, wit
 ## 3. Data Overview <a name="dataset-overview"></a>  
 <a href="#toc">[ back to contents ]</a>
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/c556a3ae-fca9-476a-b608-6bb7d960124d" width="100%">
+</div>
+
 
 ## 4. Data Cleaning & Preprocessing <a name="data-cleaning"></a>  
 <a href="#toc">[ back to contents ]</a>
