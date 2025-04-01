@@ -128,12 +128,45 @@ SQL was utilized for cleaning and processing, ensuring the data was complete, co
 
 - Based on the specific percent decrease values, nightly rates could be strategically raised by approximately 14% or more in Q2, 17% or more in Q3, and 14% or more in Q4 to recover lost revenue.
 
-| Quarter | Professionals | 2–5 Units | Single Owners |
-|---------|---------------|-----------|----------------|
-| Q1      | 2.526         |           |                |
-| Q2      | 13.499        | 13.622    | 13.609         |
-| Q3      | 16.992        | 16.575    | 17.957         |
-| Q4      | 14.471        | 14.223    | 12.085         |
+<div align="center" style="font-size:11px;">
+  <table>
+    <thead>
+      <tr>
+        <th>Quarter</th>
+        <th>Professionals</th>
+        <th>2–5 Units</th>
+        <th>Single Owners</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Q1</td>
+        <td>2.526</td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>Q2</td>
+        <td>13.499</td>
+        <td>13.622</td>
+        <td>13.609</td>
+      </tr>
+      <tr>
+        <td>Q3</td>
+        <td>16.992</td>
+        <td>16.575</td>
+        <td>17.957</td>
+      </tr>
+      <tr>
+        <td>Q4</td>
+        <td>14.471</td>
+        <td>14.223</td>
+        <td>12.085</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 
 ## 6. Recommendations
 - **Optimize Nightly Rates Based on Seasonal Trends**. Address the revenue decline by implementing targeted rate increases of approximately 14–17% in Q2–Q4, especially for professional hosts. This pricing adjustment aligns with historical drops and can help recover lost revenue without discouraging bookings, given the concurrent rise in transactions and listings.
