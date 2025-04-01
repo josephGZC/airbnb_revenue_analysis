@@ -58,7 +58,15 @@ SQL was utilized for cleaning and processing, ensuring the data was complete, co
 
 - Over the past four years, the total revenue has amounted to $783.7M, with the current year generating $245M—3.3% lower than the previous year. In terms of average revenue, the past four-year average stands at $5.35K, while the current year's average has dropped to $5K, representing a 20.6% decline compared to the previous year.
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/86daa387-edc9-4d10-9d94-67973962f505" width="100%">
+</div>
+
 - Over the past four years, there have been a total of 146.5K bookings, with the current year accounting for 47K—a 22% increase from the previous year. Similarly, total listings over this period reached 7.4K, with the current year contributing 5K listings, marking an 18.2% increase from the previous year.
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/7e53d3b0-70ec-4514-8a62-862335fe1b31" width="100%">
+</div>
 
 - Despite increases in the number of bookings and listings, both total and average revenue are declining. This warrants further investigation.
 
