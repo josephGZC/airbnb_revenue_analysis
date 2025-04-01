@@ -47,10 +47,10 @@ SQL was utilized for cleaning and processing, ensuring the data was complete, co
   - Numeric content stored as strings was converted into appropriate types such as `INT` or `FLOAT` using `CAST(column_name AS INT)` or `CAST(column_name AS FLOAT)` to ensure accurate computation and analysis.
   - For columns containing numeric strings with commas (e.g., `'1,000.00'`), the commas were removed using `REPLACE(column_name, ',', '.')` before casting the values to `FLOAT` for proper decimal interpretation.
 
-## 6. Insights Deep-Dive <a name="insights-deep-dive"></a>
+## 5. Insights Deep-Dive <a name="insights-deep-dive"></a>
 <a href="#toc">[ back to contents ]</a>
 
-## Revenue and Operations Overview
+### 5.1. Revenue and Operations Overview
 
 - Over the past four years, the total revenue has amounted to $783.7M, with the current year generating $245M—3.3% lower than the previous year. In terms of average revenue, the past four-year average stands at $5.35K, while the current year's average has dropped to $5K, representing a 20.6% decline compared to the previous year.
 
@@ -58,13 +58,13 @@ SQL was utilized for cleaning and processing, ensuring the data was complete, co
 
 - Despite increases in the number of bookings and listings, both total and average revenue are declining. This warrants further investigation.
 
-## Time Trends
+### 5.2. Time Trends
 
 - For Revenue and Average Revenue, a noticeable dip occurs in the 2nd quarter, followed by a gradual increase from the 3rd quarter until the 1st quarter of the subsequent year.
 
 - Regarding Bookings and Listings, an upward curve is evident over the quarters, although a significant dip is observed around Q2 2020, which is likely attributable to the drastic reduction in visitor numbers caused by COVID-19.
 
-## City and Street Breakdown
+### 5.3. City and Street Breakdown
 
 - Big Bear Lake City is the dominant revenue driver, accounting for 58.5% of total revenue, and the top 5 revenue streets are all located within this city.
 
@@ -72,7 +72,7 @@ SQL was utilized for cleaning and processing, ensuring the data was complete, co
 
 - While Big Bear Lake City drives overall revenue, the analysis of average revenue reveals performance differences across streets and cities, suggesting that specific high-performing streets, such as those in Yuca Valley, may be key targets for further investigation.
 
-## Host Type and Nightly Rates
+### 5.4. Host Type and Nightly Rates
 
 - Professional hosts lead with 62% of listings, followed by single owners who contribute 21.2%, while hosts with 2-5 units account for 16%.
 
@@ -86,6 +86,12 @@ SQL was utilized for cleaning and processing, ensuring the data was complete, co
 | Q2      | 13.499        | 13.622    | 13.609         |
 | Q3      | 16.992        | 16.575    | 17.957         |
 | Q4      | 14.471        | 14.223    | 12.085         |
+
+## 6. Recommendations
+Optimize Nightly Rates Based on Seasonal Trends
+Address the revenue decline by implementing targeted rate increases of approximately 14–17% in Q2–Q4, especially for professional hosts. This pricing adjustment aligns with historical drops and can help recover lost revenue without discouraging bookings, given the concurrent rise in transactions and listings.
+Leverage High-Performing Locations to Guide Growth
+Use insights from Big Bear Lake City and Cholla Avenue in Yuca Valley—the top contributors to total and average revenue—as benchmarks. Identify common features and strategies in these areas and replicate them in underperforming cities and streets to boost overall platform revenue.
 
 
 
