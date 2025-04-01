@@ -39,18 +39,7 @@ SQL was utilized to clean the
 
 ### 1. Handling Missing Values
 
-- **NULL Value Detection**  
-  To identify missing values, the following method was used:
-  ```sql
-  COUNT(*) - COUNT(column_name)
-  ```
-  This gives the number of `NULL` entries in each column.
-
-- **Empty String Detection**  
-  To detect non-null but empty fields (e.g., `' '`), the following logic was used:
-  ```sql
-  LTRIM(RTRIM(column_name)) = ''
-  ```
+Missing values were identified by comparing the total row count to the count of non-null entries using `COUNT(*) - COUNT(column_name)`. Additionally, empty string values were detected using `LTRIM(RTRIM(column_name)) = ''` to flag fields that appeared filled but contained no meaningful data.
 
 ---
 
