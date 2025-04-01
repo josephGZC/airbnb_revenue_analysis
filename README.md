@@ -13,6 +13,7 @@
 [3. Dataset Overivew](#dataset-overview) <br>
 [4. Data Cleaning and Preprocessing](#data-cleaning) <br>
 [5. Insights Deep-Dive](#insights-deep-dive) <br>
+[6. Recommendations](#recommendations) <br>
 
 ---
 
