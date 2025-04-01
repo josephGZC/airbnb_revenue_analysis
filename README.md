@@ -64,8 +64,7 @@ SQL was utilized for cleaning and processing, ensuring the data was complete, co
 <div align="center">
   <img src="https://github.com/user-attachments/assets/86daa387-edc9-4d10-9d94-67973962f505" width="85%">
   <img src="https://github.com/user-attachments/assets/7e53d3b0-70ec-4514-8a62-862335fe1b31" width="85%">
-</div> 
-
+</div> <br>
 
 ### 5.2. Time Trends
 
