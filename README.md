@@ -6,7 +6,7 @@
 
 ---
 
-### Table of Contents 
+### Table of Contents <a name="toc"></a>
 
 [1. Background](#project-background) <br>
 [2. Executive Summary](#executive-summary) <br>
