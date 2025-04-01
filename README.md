@@ -97,7 +97,6 @@ SQL was utilized for cleaning and processing, ensuring the data was complete, co
 - In terms of average revenue, the distribution among cities is more balanced, ranging between 19% and 28%, with Cholla Avenue in Yuca Valley emerging as the leader in average revenue.
 
 - While Big Bear Lake City drives overall revenue, the analysis of average revenue reveals performance differences across streets and cities, suggesting that specific high-performing streets, such as those in Yuca Valley, may be key targets for further investigation.
-
 <div align="center">
   <img src="https://github.com/user-attachments/assets/b6f6071b-cfa4-4fe2-a548-d07f7c810a97" width="60%">
   <img src="https://github.com/user-attachments/assets/656883ae-2744-4180-8d82-f823f2487651" width="60%">
