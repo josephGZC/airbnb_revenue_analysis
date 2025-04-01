@@ -71,15 +71,13 @@ SQL was utilized for cleaning and processing, ensuring the data was complete, co
 ### 5.2. Time Trends
 
 - For Revenue and Average Revenue, a noticeable dip occurs in the 2nd quarter, followed by a gradual increase from the 3rd quarter until the 1st quarter of the subsequent year.
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/0d5f1164-938d-4a3f-ac13-d83f6e41c001" width="70%">
-  <img src="https://github.com/user-attachments/assets/495202a0-d7ad-4427-95ad-cbaf1f40b0ff" width="70%">
-</div> 
 
 <table>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/0d5f1164-938d-4a3f-ac13-d83f6e41c001" width="100%"></td>
     <td><img src="https://github.com/user-attachments/assets/495202a0-d7ad-4427-95ad-cbaf1f40b0ff" width="100%"></td>
+    <td><img src="https://github.com/user-attachments/assets/5d538035-fd0a-45c8-9e88-0340f9af16fb" width="100%"></td>
+    <td><img src="https://github.com/user-attachments/assets/09e3d93d-393a-4241-a635-77166a433460" width="100%"></td>
   </tr>
 </table>
 
