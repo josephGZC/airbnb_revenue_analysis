@@ -52,7 +52,7 @@ This analysis examines Airbnb’s operational performance from 2019 to 2022, wit
 
 SQL was utilized for cleaning and processing, ensuring the data was complete, consistent, and analysis-ready.
 
-- **Seaching for Duplicate and Missing Values**
+- **Searching for Duplicate and Missing Values**
   - To identify duplicates, the query groups rows based on key fields and uses `HAVING COUNT(*) > 1` to detect repeated combinations—none were found in this case. 
   - Missing values were identified by comparing the total row count to the count of non-null entries using `COUNT(*) - COUNT(column_name)`. Additionally, empty string values were detected using `LTRIM(RTRIM(column_name)) = ''` to flag fields that appeared filled but contained no meaningful data. No essential columns had missing values that required further cleaning or corrective action.
 
