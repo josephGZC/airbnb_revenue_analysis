@@ -12,7 +12,7 @@
 
 ### Table of Contents <a name="toc"></a>
 
-[1. Background](#project-background) <br>
+[1. Project Background](#project-background) <br>
 [2. Executive Summary](#executive-summary) <br>
 [3. Dataset Overview](#dataset-overview) <br>
 [4. Data Cleaning and Preprocessing](#data-cleaning) <br>
