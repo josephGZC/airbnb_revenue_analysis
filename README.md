@@ -14,7 +14,7 @@
 
 [1. Background](#project-background) <br>
 [2. Executive Summary](#executive-summary) <br>
-[3. Dataset Overivew](#dataset-overview) <br>
+[3. Dataset Overview](#dataset-overview) <br>
 [4. Data Cleaning and Preprocessing](#data-cleaning) <br>
 [5. Insights Deep-Dive](#insights-deep-dive) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;[5.1. Revenue and Operations Overview](#overview) <br>
@@ -39,7 +39,7 @@ Airbnb, the world’s leading online marketplace for short-term rentals and uniq
 This analysis examines Airbnb’s operational performance from 2019 to 2022, with the goal of identifying trends and insights that can drive revenue growth. Despite an encouraging rise in both transactions and listings in the most recent year, a concerning decline in total and average revenue was observed. The report investigates this discrepancy by analyzing seasonal patterns, geographic contributions at the city and street levels, and variations across host types. Key findings reveal that nightly rates have dropped significantly in Q2–Q4 of 2022, especially among professional hosts, likely contributing to the revenue decline. Additionally, while Big Bear Lake City generates the highest total revenue, average revenue is more evenly distributed across cities, with Cholla Avenue in Yuca Valley emerging as a top performer. Based on these insights, two strategic recommendations are proposed: implement targeted seasonal rate increases to recover lost revenue and replicate successful practices from high-performing locations to improve revenue across underperforming areas.
 </p>
 
-## 3. Data Overview <a name="dataset-overview"></a>  
+## 3. Dataset Overview <a name="dataset-overview"></a>  
 <a href="#toc">[ back to contents ]</a>
 
 <div align="center">
