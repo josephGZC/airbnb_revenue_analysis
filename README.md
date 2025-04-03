@@ -1,3 +1,5 @@
+<link rel="icon" href="https://github.com/josephGZC/airbnb_revenue_analysis/blob/8b8f686ecec368e46d7b50e0d04e16a758e68cec/barong_dp_circle_airbnb.ico" type="image/x-icon">
+
 # Airbnb Revenue Analysis
 
 <div align="center">
